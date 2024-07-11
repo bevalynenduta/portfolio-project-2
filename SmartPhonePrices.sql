@@ -1,6 +1,5 @@
 --this data was obtained from kaggle
---This dataset offers a thorough compilation of data about several smartphones, facilitating an in-depth examination 
---of their features and costs. Researchers, data analysts, and machine learning enthusiasts interested in the smartphone 
+--This dataset offers a thorough compilation of data about several smartphones, facilitating an in-depth examination  
 --sector will find it to be a helpful resource as it covers a broad spectrum of handsets, including various brands, models,
 --and configurations.
 --Smartphone Name: The unique identifier or model name of the smartphone.
